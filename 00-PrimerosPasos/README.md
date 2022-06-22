@@ -26,7 +26,7 @@ En este [link](https://github.com/soyHenry/Prep-Course/tree/main/) vas a encontr
 
 **IMPORTANTE:** Para ejecutar los tests de cada homework tenes que pararte en la carpeta donde clonaste tu repo (es decir la carpeta donde está este `README.md`) y ejecutar el siguiente comando:
 
-```bash
+```bashnpm 
 npm install
 ```
 
